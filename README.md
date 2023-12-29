@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 我是Adora👋
+
+Ruby / Ruby on Rails / JavaScript Developer，
+正在學習用程式創造出更美好又充滿活力世界！💖✨
+
+我的個人網站：https://adora-xu.com/
 
 <!--
 **Adoraxuu/Adoraxuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
