@@ -3,7 +3,10 @@
 Ruby / Ruby on Rails / JavaScript Developer，
 正在學習用程式創造出更美好又充滿活力世界！💖✨
 
-我的個人網站：https://adora-xu.com/
+📧 Email: adoraxu01@gmail.com
+🐈 GitHub: Adoraxuu
+📸 Instagram: yin.001
+📝 blog:https://adora-xu.com/about/
 
 <!--
 **Adoraxuu/Adoraxuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
