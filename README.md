@@ -1,24 +1,8 @@
 ### Hi 我是Adora👋
 
-Ruby / Ruby on Rails / JavaScript Developer，
+Ruby / Ruby on Rails / JavaScript Developer<br/>
 正在學習用程式創造出更美好又充滿活力世界！💖✨
 
-📧 Email: adoraxu01@gmail.com
-🐈 GitHub: Adoraxuu
-📸 Instagram: yin.001
-📝 blog:https://adora-xu.com/about/
-
-<!--
-**Adoraxuu/Adoraxuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: adoraxu01@gmail.com
+- 📸 Instagram: yin.001
+- 📝 blog:https://adora-xu.com/about/
