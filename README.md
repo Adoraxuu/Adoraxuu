@@ -5,7 +5,6 @@ Ruby / Ruby on Rails / Python / Django / JavaScript
 
 - 🔭 Currently working on: building web applications & APIs  
 - ✏️ Writing articles about: web development, clean code, API design, and developer growth  
-- 🐰 Fun fact: I love rabbits!  
 - 💬 Feel free to connect and chat about code, tech, or learning languages (English & Japanese)!  
 
 ---
